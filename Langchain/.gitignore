@@ -1,0 +1,11 @@
+# Python/cache artifacts
+.mypy_cache/
+__pycache__/
+.ipynb_checkpoints/
+
+# Sensitive/local files
+key/
+
+# Generated or bulky local artifacts
+db/
+data/
